@@ -1,0 +1,1 @@
+# IT20152246_PAF_PowerConsumptionManagement
